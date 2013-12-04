@@ -1,5 +1,5 @@
 {
-    "name": "Remo/whoops_exception_handler",
+    "name": "remo/whoops_exception_handler",
     "type": "concrete5-package",
     "require": {
         "php": ">=5.3.2",
